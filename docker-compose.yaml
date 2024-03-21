@@ -1,5 +1,5 @@
 # rbmq-docker-composed
-a docker composed file to run rabbitmq on your local machine
+#a docker composed file to run rabbitmq on your local machine
 
 
 version: "3.8"
